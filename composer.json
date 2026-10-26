@@ -1,0 +1,7 @@
+{
+    "name": "rampcommerce/placeholder",
+    "description": "Reserved namespace for Ramp Commerce. No functional code.",
+    "type": "library",
+    "license": "proprietary",
+    "require": {}
+}
